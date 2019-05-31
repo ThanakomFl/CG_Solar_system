@@ -1,0 +1,18 @@
+﻿  Makestars.cpp
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.h(12): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(106): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(110): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\cg\solar system\project1\project1\makestars.cpp(110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\thanakom_hatsadeang\Desktop\CG\solar system\Project1\Debug\Project1.exe
